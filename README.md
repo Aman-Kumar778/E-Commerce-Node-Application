@@ -2,8 +2,9 @@
 
 This is a full-stack E-Commerce web application featuring an Admin Dashboard, Frontend for users, and a Node.js Backend API.
  
-  - Naman Aryan (22BCS16363)
   - Aman Kumar (22BCS15813)
+  -  Naman Aryan (22BCS16363)
+
 ---
 
 ## 📁 Project Structure
